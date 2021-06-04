@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GoCar-App",
-    "slug": "GoCar-App",
+    "name": "TeslaClone",
+    "slug": "TeslaClone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
